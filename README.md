@@ -4,6 +4,10 @@
 
 Without everything,or face the reality.
 
+Powered by Github Page
+
+
+
 下面是bull s**t 生成器
 
 
@@ -20,7 +24,7 @@ Without everything,or face the reality.
 
 
 
-
+生成于：https://github.com/menzi11/BullshitGenerator
 
 
 
